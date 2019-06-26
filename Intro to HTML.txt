@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Hello World </title>
+  </head>
+  <body>
+    
+    <h1>Edwina</h1>
+    <h3>Front-end developer</h3>
+    <h6>Biografi singkat</h6>
+    <p> Nama saya Edwina. Saya Asli Solo. Sudah bekerja sendiri dalam beberapa tahun terakhir.
+      <hr>
+    Contact me
+<ul>
+  <li>
+    <a href="https://facebook.com">Facebook</a>
+      </li>
+  <li>Instagram</li>
+  <li>Twitter</li>
+  
+  <img src="https://pixel.nymag.com/imgs/daily/vulture/2018/05/16/16-ms-marvel.w700.h700.jpg" width="200" alt="Cat">
+  </li>
+    </ul>
+  </body>
+</html>
